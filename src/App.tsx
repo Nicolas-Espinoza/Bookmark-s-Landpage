@@ -1,4 +1,4 @@
-import { useMediaQuery, VStack, HStack } from '@chakra-ui/react';
+import { useMediaQuery, VStack } from '@chakra-ui/react';
 import { Header } from './components/Header/HeaderBody';
 import { CallToActionBody } from './components/CallToAction/CallToActionBody';
 import { FeaturesBody } from './components/Features/FeaturesBody';

@@ -1,4 +1,4 @@
-import { Accordion, AccordionItem, AccordionButton, Box, AccordionIcon, AccordionPanel, Center, Flex, useMediaQuery, Stack } from '@chakra-ui/react';
+import { Accordion, AccordionItem, AccordionButton, Box, AccordionIcon, AccordionPanel, useMediaQuery } from '@chakra-ui/react';
 import './Styles.css'
 
 

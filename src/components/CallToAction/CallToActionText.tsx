@@ -1,4 +1,4 @@
-import { Button, Heading, Spacer, Stack, Text, useMediaQuery } from "@chakra-ui/react";
+import { Button, Heading, Stack, Text, useMediaQuery } from "@chakra-ui/react";
 
 
 export const Body = () => {

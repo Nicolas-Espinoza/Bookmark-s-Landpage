@@ -1,4 +1,4 @@
-import { Heading, VStack, Text, Image, Spacer, Button, Stack, useMediaQuery } from "@chakra-ui/react";
+import { Heading, Text, Image, Button, Stack, useMediaQuery } from "@chakra-ui/react";
 
 
 interface Props {
