@@ -1,4 +1,4 @@
-import { Heading, Stack, Text, useMediaQuery, VStack, HStack, Button, Center, Image, Box } from "@chakra-ui/react"
+import { Heading, Stack, Text, useMediaQuery, VStack, Button, Center, Image } from "@chakra-ui/react"
 import { EmailInput } from "./EmailInput";
 
 import logo from '../../assets/logos/logo-bookmark-white.svg';

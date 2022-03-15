@@ -1,5 +1,4 @@
-import React from "react";
-import { Box, Flex, Image, Stack, useMediaQuery } from "@chakra-ui/react";
+import { Image, Stack, useMediaQuery } from "@chakra-ui/react";
 import logo from './../../assets/logos/logo-bookmark.svg';
 
 

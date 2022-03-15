@@ -38,7 +38,7 @@ export const DownloadBody = () => {
             >
                 {data.map((item, index) => {
                     return (
-                        <Stack paddingTop={isSmallScreen ? '0px' : (index * 12)}>
+                        <Stack paddingTop={isSmallScreen ? '0px' : (index * 12)} key={index}>
                             <DownloadCard
                                 image={item.image}
                                 title={item.title}
