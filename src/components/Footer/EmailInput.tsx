@@ -1,20 +1,15 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 
 import validator from 'validator';
 
 import {
     FormControl,
-    FormLabel,
-    FormErrorMessage,
     FormHelperText,
     Input,
     Button,
-    Center,
     VStack,
-    HStack,
     useMediaQuery,
     Stack,
-    Text,
     Box
 } from '@chakra-ui/react'
 

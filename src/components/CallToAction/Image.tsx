@@ -1,5 +1,4 @@
-import React from "react";
-import { Box, Image, Stack, useMediaQuery } from "@chakra-ui/react";
+import { Image, Stack, useMediaQuery } from "@chakra-ui/react";
 import imagenBody from '../../assets/illustrations/illustration-hero.svg';
 
 export const ImageBody = () => {

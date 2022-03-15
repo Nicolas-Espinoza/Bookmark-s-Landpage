@@ -1,5 +1,3 @@
-
-import React from "react";
 import { Center, Heading, VStack, Text, Flex, Button, Stack, useMediaQuery } from "@chakra-ui/react";
 import { AccordionMenu } from "./AccordionMenu";
 

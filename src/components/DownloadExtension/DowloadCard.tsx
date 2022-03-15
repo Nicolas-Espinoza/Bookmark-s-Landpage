@@ -1,5 +1,4 @@
-import React from "react";
-import { Button, Heading, Image, Spacer, Stack, Text, useMediaQuery, VStack } from "@chakra-ui/react";
+import { Button, Heading, Image, Spacer, Text, useMediaQuery, VStack } from "@chakra-ui/react";
 import separator from '../../assets/icons/bg-dots.svg';
 import './Styles.css'
 
